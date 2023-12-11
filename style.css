@@ -13,6 +13,10 @@ body {
 .hund {
     width: 100px;
     height: 100px;
+    border-style: solid;
+    border-radius: 12px;
+    border-color: #3882F6;
+    border-width: 3px;
 }
 
 ul {
@@ -90,10 +94,25 @@ button {
     text-align: center;
 }
 
+.infohead {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    margin-bottom: 50px;
+}
+
 .squares {
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
 }
 
 .info  {
     text-align: center;
+    padding: 20px;
+}
+
+.subinfo {
+    max-width: 100px;
 }
