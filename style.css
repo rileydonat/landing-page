@@ -15,7 +15,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    gap: 10px;
+    gap: 15px;
 }
 
 a {
@@ -28,6 +28,7 @@ a {
     display: flex;
     justify-content: space-between;
     padding: 10px;
+    align-items: center;
 }
 
 .logo {
@@ -65,10 +66,13 @@ a {
 .subtext {
     font-size: 18px;
     color: #E5E7EB;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .hero {
-    max-width: 250px;
+    max-width: 350px;
+    align-self: center;
 
 }
 
