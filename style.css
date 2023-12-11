@@ -6,8 +6,13 @@ body {
 }
 
 
-img {
+.mtn {
     width: 250px;
+}
+
+.hund {
+    width: 100px;
+    height: 100px;
 }
 
 ul {
@@ -82,5 +87,13 @@ button {
     border-radius: 12px;
     border: none;
     padding: 8px;
+    text-align: center;
+}
+
+.squares {
+    display: flex;
+}
+
+.info  {
     text-align: center;
 }
