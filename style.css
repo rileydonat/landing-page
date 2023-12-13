@@ -110,7 +110,7 @@ button {
 
 .info  {
     text-align: center;
-    padding: 20px;
+    padding: 80px;
 }
 
 .subinfo {
@@ -123,7 +123,7 @@ button {
     align-items: center;
     justify-content: center;
     background-color: #E5E7EB;
-    padding: 80px;
+    padding: 85px;
 }
 
 .speech {
@@ -131,9 +131,10 @@ button {
     color: #1F2937;
     font-style: italic;
     font-weight: 300;
-    width: 650px;
+    width: 800px;
 }
 
 .man {
     font-weight: bold;
+    margin-left: 550px;
 }
