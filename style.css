@@ -133,3 +133,7 @@ button {
     font-weight: 300;
     width: 650px;
 }
+
+.man {
+    font-weight: bold;
+}
