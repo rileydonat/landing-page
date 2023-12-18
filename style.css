@@ -89,9 +89,12 @@ button {
     background-color: #3882F6;
     color: #F9FAF8;
     border-radius: 12px;
-    border: none;
     padding: 8px;
     text-align: center;
+}
+
+.signone {
+    border: none;
 }
 
 .infohead {
@@ -155,5 +158,10 @@ button {
     padding: 20px;
     border-radius: 12px;
     border: none;
+    align-items: center;
+}
 
+.signtwo {
+    border-style: solid;
+    border-color: #F9FAF8;
 }
