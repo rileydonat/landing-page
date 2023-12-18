@@ -50,13 +50,16 @@ a {
     margin-right: 100px;
 }
 
-.header, .top {
+.header, .top, .footer {
     background-color: #1F2937;
 }
 
 
 .footer{
     display: flex;
+    justify-content: center;
+    padding: 25px;
+    color: #F9FAF8;
 }
 
 .top {
