@@ -138,3 +138,12 @@ button {
     font-weight: bold;
     margin-left: 550px;
 }
+
+.action {
+    display: flex;
+}
+
+.call {
+    display: flex;
+    
+}
