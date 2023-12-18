@@ -88,9 +88,10 @@ a {
 button {
     background-color: #3882F6;
     color: #F9FAF8;
-    border-radius: 12px;
+    border-radius: 8px;
     padding: 8px;
     text-align: center;
+    width: 100px;
 }
 
 .signone {
