@@ -156,7 +156,7 @@ button {
     width: 850px;
     background-color: #3882F6;
     justify-content: space-around;
-    padding: 20px;
+    padding: 30px;
     border-radius: 12px;
     border: none;
     align-items: center;
@@ -165,4 +165,10 @@ button {
 .signtwo {
     border-style: solid;
     border-color: #F9FAF8;
+}
+
+.callhead {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
 }
